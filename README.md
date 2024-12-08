@@ -100,7 +100,7 @@ deepfake-detection-project/
 Navigate to the folder for download link :
 
 ```bash
- deepfake-detection-project/backend/models/downloadt_this.txt
+ deepfake-detection-project/backend/models/download_this.txt
 ```
 
 ## Download Datasets 
