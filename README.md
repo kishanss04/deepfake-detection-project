@@ -25,6 +25,11 @@ This project detects deepfake images using a deep learning model built with Tens
 
 ---
 
+## System Architechture
+
+ ![System Architecture](D:\deepfake-detection-project\github_assets)
+
+
 ## Installation
 
 1. **Clone the repository**:
@@ -87,6 +92,11 @@ deepfake-detection-project/
 ├── README.md                # Documentation for the project
 └── .gitignore               # To exclude unnecessary files like `venv`, `node_modules`
 ```
+## Download Datasets 
+
+ Download Forensics++ Datasets from kaggle and place : 
+ - Original sequences in the folder datasets/real
+ - Manipulated sequences in the folder datasets/fake
 
 ## Setup
 Make sure you have the following installed:
@@ -124,6 +134,8 @@ npm start
 - Open the frontend in your browser at http://localhost:3000.
 - Upload an image and click "Analyze".
 - View the deepfake detection results.
+
+  
 
 ## License
 This project is licensed under the MIT License.
