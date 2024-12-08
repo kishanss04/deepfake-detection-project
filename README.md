@@ -148,7 +148,7 @@ npm start
 
 ## 4. Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/sPJdSeLCNvw)
+[![Demonstration Video Link](https://youtu.be/sPJdSeLCNvw)
 
 
 ## License
