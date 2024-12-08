@@ -1,0 +1,16 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore model files (optional)
+*.h5
+
