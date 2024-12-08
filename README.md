@@ -96,6 +96,13 @@ deepfake-detection-project/
 ├── README.md                # Documentation for the project
 └── .gitignore               # To exclude unnecessary files like `venv`, `node_modules`
 ```
+## Downloade Deepfake Model
+Navigate to the folder for download link :
+
+```bash
+ deepfake-detection-project/backend/models/downloadt_this.txt
+```
+
 ## Download Datasets 
 
  Download Forensics++ Datasets from kaggle and place : 
@@ -141,10 +148,8 @@ npm start
 
 ## 4. Demo
 
-### [Testing and Results](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) 
-<p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
-</p>
+[![Watch the Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+
 
 ## License
 This project is licensed under the MIT License.
