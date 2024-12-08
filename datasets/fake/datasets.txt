@@ -1,1 +1,1 @@
-
+Download the Datasets using the link provided in the README file and place fake sequences in fake folder and real sequences in real folder
