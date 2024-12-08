@@ -27,9 +27,9 @@ This project detects deepfake images using a deep learning model built with Tens
 
 ## System Architecture
 
-Here's the system architecture diagram:
-
-![System Architecture](github_assets/System_Architecture.png)
+<p align="center">
+  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
+</p>
 
 
 
